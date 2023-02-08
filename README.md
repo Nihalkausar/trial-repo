@@ -1,2 +1,2 @@
 # trial-repo
-decription git
+description git
